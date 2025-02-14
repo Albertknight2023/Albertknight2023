@@ -1,6 +1,10 @@
 ## Albert Knight 🤖👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=-1px&pause=1500&background=FF20A100&vCenter=true&width=700&height=60&lines=Albertknight's%2Bintroduce;A+novice+at+web+front-end+development)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=-1px&pause=1500&background=FF20A100&vCenter=true&width=700&height=60&lines=Albertknight's+introduce;A+novice+at+web+front-end+development)](https://git.io/typing-svg)
+<p>
+  
+</p>
+##Technologies
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,phpstorm,react,vite,idea&perline=3)](https://skillicons.dev)
 <!--
 **Albertknight2023/Albertknight2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
