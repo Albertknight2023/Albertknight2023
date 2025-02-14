@@ -1,13 +1,18 @@
 ## Albert Knight 🤖👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=-1px&pause=1500&background=FF20A100&vCenter=true&width=700&height=60&lines=Albertknight's+introduce;A+novice+at+web+front-end+development)](https://git.io/typing-svg)
-<p>
-  
-</p>
-##Technologies
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,phpstorm,react,vite,idea&perline=3)](https://skillicons.dev)
+
+
+
+
+## Technologies
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,phpstorm,pycharm,idea,react,vite,vscode&perline=3)](https://skillicons.dev)
+
+## True music
+
+## Achievement
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albertknight2023)
 <!--
 **Albertknight2023/Albertknight2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
