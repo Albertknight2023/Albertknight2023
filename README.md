@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&background=FF20A1CD&center=true&vCenter=true&width=550&height=65&lines=Albertknight's%2Bintroduce)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&background=FF20A1CD&center=true&vCenter=true&repeat=false&width=550&height=65&lines=Albertknight's%2Bintroduce)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&background=FF20A1CD&center=true&vCenter=true&width=680&height=65&lines=A+novice+at+web+front-end+development)](https://git.io/typing-svg)
 <!--
 **Albertknight2023/Albertknight2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
