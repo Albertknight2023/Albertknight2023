@@ -1,10 +1,10 @@
 ## Albertknight 🤖👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=-1px&pause=1500&background=FF20A100&vCenter=true&width=700&height=60&lines=Albertknight's+introduce;A+novice+at+web+front-end+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=-1px&pause=1500&background=FF20A100&vCenter=true&width=700&height=60&lines=Albertknight's+introduction;A+novice+at+web+front-end+development)](https://git.io/typing-svg)
 
 
 
 
-## Technologies
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ai,phpstorm,pycharm,idea,react,vite,vscode)](https://skillicons.dev)
 
 ## True music
